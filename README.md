@@ -1,7 +1,25 @@
-Projeto feito durante a Imersão Dev da Alura em parceria com o Google utilizando o Gemini.
+# Projeto: Página de Notícias (Imersão Dev)
 
-Projeto feito em 2024 durante a Imersão Dev da Alura, em parceria com o Google, utilizando o Gemini. Feito em 5 dias.
-A intenção foi fazer a tela inicial de uma página de notícias, onde o leitor poderia fazer pesquisas relacionadas ao conteúdo da página, porém, não terminei a página na época.
-Fiz a imersão para saber mais sobre como é a profissão de Desenvolvedor Front-end e fazer meu primeiro projeto, conhecendo um pouco sobre HTML, CSS e JavaScript.
+Este foi um dos meus primeiros projetos, desenvolvido durante a Imersão Dev da Alura em parceria com o Google Gemini. O projeto foi uma introdução à prática do desenvolvimento Front-end, com o objetivo de criar uma página inicial para um site de notícias.
 
-Link: https://devartt.github.io/imersao-dev-com-gemini-alura
+## 📈 Jornada e Aprendizado
+
+Este projeto marcou o início da minha jornada no desenvolvimento web. Embora esteja incompleto, ele foi fundamental para solidificar os seguintes conceitos:
+
+- **Primeiro "Hello, world!" com JavaScript:** Pela primeira vez, utilizei JavaScript para exibir meu primeiro "Hello, world!" na página, dando um passo inicial em direção à programação.
+- **Fundamentos de HTML e CSS:** Apliquei o conhecimento básico de HTML para a estruturação da página e CSS para a estilização inicial.
+- **Primeira Experiência Prática:** Esta foi a primeira vez que atuei na prática com os conceitos de desenvolvimento, o que me ajudou a entender o fluxo de trabalho.
+
+O projeto é um testemunho da minha evolução, e serviu como um ponto de partida para os meus estudos em direção a projetos mais completos e complexos.
+
+## 📌 Observação
+
+O arquivo JavaScript com o "Hello, world!" não está disponível neste repositório.
+
+## 🔗 Acesse o Projeto
+
+- **Link:** [https://devartt.github.io/imersao-dev-com-gemini-alura]
+
+---
+
+**Autor:** Arthur Telles
