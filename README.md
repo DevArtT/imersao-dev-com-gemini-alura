@@ -18,7 +18,7 @@ O arquivo JavaScript com o "Hello, world!" não está disponível neste reposit�
 
 ## 🔗 Acesse o Projeto
 
-- **Link:** [https://devartt.github.io/imersao-dev-com-gemini-alura]
+- **Link:** https://devartt.github.io/imersao-dev-com-gemini-alura
 
 ---
 
